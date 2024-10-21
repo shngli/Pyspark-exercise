@@ -1,6 +1,6 @@
 # Pyspark Exercise
 
-Data preprocessing demo with PySpark on Azure Databricks.
+Data preprocessing demo with PySpark on Azure Databricks. **TBD: pyspark project notebooks**
 
 ## ETL Processes with PySpark
 
